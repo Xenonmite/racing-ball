@@ -1,8 +1,5 @@
 # racing-ball
-this is an early version of the upcoming update, just wanted to share my progress
-so basically you can move around and stuff
-im building up from ground up dw i will add everything back later
-(the only reason im releasing this unfinished version is bc i promised to make an update before summer)
+This is currently a very early version with most of the features not yet implemented. I'm slowly rebuilding the game from the ground up because the old version (that one release) became impossible to work with.
 
 # controls
 <ul>
